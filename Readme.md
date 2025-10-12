@@ -2,8 +2,8 @@
 
 **Aquaflow** is a sleek, cool, greenish-aqua theme for [Zed](https://zed.dev), inspired by the calm yet vibrant colors of ocean water.It is my personal zed theme give it a try.
 
-![Aquaflow Preview](screenshot.png)
-![Aquaflow Preview]()
+![Aquaflow Preview](https://github.com/Whitfrost21/zed-Aquaflow/myzedtheme.png)
+![Aquaflow Preview](https://github.com/Whitfrost21/zed-Aquaflow/aquaflow.png)
 
 ---
 
