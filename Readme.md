@@ -22,17 +22,14 @@
    ```bash
    git clone https://github.com/Whitfrost21/zed-Aquaflow.git
    ```
-
 2.Copy or move aquaflow.json file to your config:
-
 ```bash
   mv Aquaflow/themes/aquflow.json  ~/.config/zed/themes/
   cp Aquaflow/themes/aquflow.json  ~/.config/zed/themes/
 ```
+3.Open Zed then Command Palette -> Select Theme -> aquaflow.
 
-3. Open Zed then Command Palette -> Select Theme -> aquaflow.
-
-## Or you can directly download and use this file in your zed's config by moving it in:
+# Or you can directly download and use this file in your zed's config by moving it in:
 
 ```bash
 ~/.config/zed/themes/
