@@ -57,6 +57,8 @@
         "terminal.ansi.bright_magenta": "#de73ff",
         "terminal.ansi.bright_cyan": "#4cd1e0",
         "terminal.ansi.bright_white": "#e6e6e6",
+        "warning.background":"#000000",
+        "warning.border":"#ffff00",
         "players": [
           {
             "cursor": "#4fd1d9ff",
