@@ -32,7 +32,7 @@
 ```
 3.Open Zed then Command Palette -> Select Theme -> aquaflow.
 
-### Or you can directly download and use this file in your zed's config by moving it in:
+### Or you can directly download and use the json file in your zed's config by moving it in:
 
 ```bash
 ~/.config/zed/themes/
