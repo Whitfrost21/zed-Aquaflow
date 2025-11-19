@@ -91,7 +91,7 @@
           "string.escape": { "color": "#a3ff9c" },
           "attribute": { "color": "#72efdd" },
           "property": { "color": "#8fd6f8" },
-          "function": { "color": "#a2f3f3", "font_weight": "bold" }, //#fcde48
+          "function": { "color": "#a2f3f3", "font_weight": "bold" },
           "constructor": { "color": "#61afef" },
           "class": { "color": "#73e8e3", "font_weight": "bold" },
           "type": { "color": "#E3D2C3" },
