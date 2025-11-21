@@ -1,0 +1,19 @@
+{
+  "name": "aquaflow",
+  "display_name": "Aquaflow Theme",
+  "version": "1.0.0",
+  "publisher": "Prajwal",
+  "description": "A greenish calm and ocean-inspired theme for Zed.",
+  "categories": ["Themes"],
+  "repository": "https://github.com/Whitfrost21/zed-Aquaflow",
+  "engines": {
+    "zed": ">=0.130.0"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "path": "themes/aquaflow.json"
+      }
+    ]
+  }
+}
