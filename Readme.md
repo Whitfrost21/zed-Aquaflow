@@ -17,26 +17,12 @@
 
 ## 🧩 Installation
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/Whitfrost21/zed-Aquaflow.git
-   ```
-   2.Copy or move aquaflow.json file to your config:
+1. Open Extensions in Zed using `Ctrl + Shift + X`.
+2. Search for **aquaflow-theme**.
+3. Click on **Install**.
 
-```bash
-  mv Aquaflow/themes/aquflow.json  ~/.config/zed/themes/
-```
+That's it! The Aquaflow Theme is now installed.
 
-Or
+## 👥 Contributions
 
-```bash
-  cp Aquaflow/themes/aquflow.json  ~/.config/zed/themes/
-```
-
-3.Open Zed then Command Palette -> Select Theme -> aquaflow.
-
-### Or you can directly download and use the json file in your zed's config by moving it in:
-
-```bash
-~/.config/zed/themes/
-```
+Feel free to contribute to this project! Your suggestions and improvements are always welcome.
