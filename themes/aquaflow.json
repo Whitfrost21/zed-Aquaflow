@@ -66,6 +66,9 @@
         "info": "#00cccc",
         "info.background": "#0A0F14",
         "info.border": "#00cccc",
+        "hint": "#00cccc",
+        "hint.background": "#0A0F14",
+        "hint.border": "#00cccc",
         "players": [
           {
             "cursor": "#4fd1d9ff",
